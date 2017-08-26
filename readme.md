@@ -1,6 +1,4 @@
-##Link to tutorial
-
-<a href="https://www.youtube.com/playlist?list=PLillGF-RfqbYhQsN5WMXy6VsDMKGadrJ-">Laravel From Scratch - Traversy Media</a>
+Link to tutorial: <a href="https://www.youtube.com/playlist?list=PLillGF-RfqbYhQsN5WMXy6VsDMKGadrJ-">Laravel From Scratch - Traversy Media</a>
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
